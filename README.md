@@ -1,3 +1,12 @@
+# Proyecto LEARNYOUHMTL
+
+## Objetivos
+ Realizar los ejericicios dados en el contenido de la carpeta del Proyecto
+
+## Resultados
+![Resultados](assets/imgs/resultados.png)
+
+## Alcance
 ![learnyouhtml](./preview.png)
 
 # learnyouhtml
